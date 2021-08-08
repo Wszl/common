@@ -6,7 +6,7 @@
 
     <groupId>org.xdove</groupId>
     <artifactId>common</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
 
     <dependencies>
         <dependency>
